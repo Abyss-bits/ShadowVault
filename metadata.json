@@ -1,0 +1,6 @@
+{
+  "name": "Qalqan Safe",
+  "description": "Прототип мобильного банка с активной антифрод-защитой: скрытый сейф по тревожному ПИН-коду, Soft-Escrow, подтверждение второй рукой и симулятор API НБРК.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

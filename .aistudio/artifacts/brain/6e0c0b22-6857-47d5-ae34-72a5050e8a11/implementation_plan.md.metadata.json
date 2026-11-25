@@ -1,0 +1,6 @@
+{
+  "summary": "Обновлённый план реализации Qalqan Safe по полной спецификации: модульно-пакетная структура, стек (Room+SQLCipher, Hilt, kotlinx.serialization, JUnit5/Turbine), чистый RiskEngine, двойная запись Ledger, сценарии Zero-Tell, Soft-Escrow, Вторая рука, симулятор API НБРК и 5 этапов разработки с тестами.",
+  "updatedAt": "2026-11-25T00:08:17.650081918Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
